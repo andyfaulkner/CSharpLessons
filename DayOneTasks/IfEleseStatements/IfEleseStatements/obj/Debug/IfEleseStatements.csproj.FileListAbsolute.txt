@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\IfEleseStatements\IfEleseStatements\bin\Debug\IfEleseStatements.exe.config
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\IfEleseStatements\IfEleseStatements\obj\Debug\IfEleseStatements.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\IfEleseStatements\IfEleseStatements\bin\Debug\IfEleseStatements.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\IfEleseStatements\IfEleseStatements\bin\Debug\IfEleseStatements.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\IfEleseStatements\IfEleseStatements\obj\Debug\IfEleseStatements.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\IfEleseStatements\IfEleseStatements\obj\Debug\IfEleseStatements.pdb
