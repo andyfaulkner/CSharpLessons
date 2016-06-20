@@ -12,30 +12,80 @@ namespace WhileAndDoLoops
         {
             Console.WriteLine("Riddles using While and Do While loops");
 
+            //varible to control guesses
+            int numOfGuesses = 0;
+
             //riddle one
             Console.WriteLine("First riddle: ");
             Console.WriteLine("What gets wetter and wetter the more it dries?");
-            string userGuess = "towel";
+            bool userGuess = false;
             var userInput = Console.ReadLine().ToLower();
-            while (userGuess != userInput)
+            while (userGuess == false && numOfGuesses < 2)
             {
-                Console.WriteLine("Your guess isn't correct! Try again!");
-                userInput = Console.ReadLine().ToLower();
+                numOfGuesses++;
+                switch (userInput)
+                {
+                    case "a towel":
+                    case "towel":
+                        userGuess = true;
+                        Console.WriteLine("Correct");
+                        break;
+                    default:
+                        Console.WriteLine("Your guess isn't correct! Try again!");
+                        userInput = Console.ReadLine().ToLower();
+                        break;
+                }
             }
 
-            Console.WriteLine("Correct");
+            
 
             //riddle two
+            numOfGuesses = 0;
             Console.WriteLine("What can travel around the world while staying in a corner?");
-            userGuess = "stamp";
+            userGuess = false;
             userInput = Console.ReadLine().ToLower();
-            do
+            while (userGuess == false && numOfGuesses < 2)
             {
-                Console.WriteLine("Your guess isn't correct! Try again!");
-                userInput = Console.ReadLine().ToLower();
-            } while (userGuess != userInput);
+                numOfGuesses++;
+                switch (userInput)
+                {
+                    case "a stamp":
+                    case "stamp":
+                        userGuess = true;
+                        Console.WriteLine("Correct");
+                        break;
+                    default:
+                        Console.WriteLine("Your guess isn't correct! Try again!");
+                        userInput = Console.ReadLine().ToLower();
+                        break;
+                }
+            }
 
-            Console.WriteLine("Correct");
+            
+
+            //riddle three
+            numOfGuesses = 0;
+            Console.WriteLine("Take off my skin - I won't cry, but you will! What am I?");
+            userGuess = false;
+            userInput = Console.ReadLine().ToLower();
+            while (userGuess == false && numOfGuesses < 2)
+            {
+                numOfGuesses++;
+                switch (userInput)
+                {
+                    case "an onion":
+                    case "onion":
+                        userGuess = true;
+                        Console.WriteLine("Correct");
+                        break;
+                    default:
+                        Console.WriteLine("Your guess isn't correct! Try again!");
+                        userInput = Console.ReadLine().ToLower();
+                        break;
+                }
+            }
+
+            
         }
     }
 }

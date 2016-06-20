@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\DataStructuresArray\DataStructuresArray\bin\Debug\DataStructuresArray.exe.config
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\DataStructuresArray\DataStructuresArray\bin\Debug\DataStructuresArray.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\DataStructuresArray\DataStructuresArray\bin\Debug\DataStructuresArray.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\DataStructuresArray\DataStructuresArray\obj\Debug\DataStructuresArray.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\DataStructuresArray\DataStructuresArray\obj\Debug\DataStructuresArray.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayOneTasks\DataStructuresArray\DataStructuresArray\obj\Debug\DataStructuresArray.csprojResolveAssemblyReference.cache
