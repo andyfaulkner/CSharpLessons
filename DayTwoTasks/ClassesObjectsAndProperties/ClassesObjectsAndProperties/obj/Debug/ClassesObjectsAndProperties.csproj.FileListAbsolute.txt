@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\ClassesObjectsAndProperties\ClassesObjectsAndProperties\bin\Debug\ClassesObjectsAndProperties.exe.config
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\ClassesObjectsAndProperties\ClassesObjectsAndProperties\bin\Debug\ClassesObjectsAndProperties.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\ClassesObjectsAndProperties\ClassesObjectsAndProperties\bin\Debug\ClassesObjectsAndProperties.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\ClassesObjectsAndProperties\ClassesObjectsAndProperties\obj\Debug\ClassesObjectsAndProperties.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\ClassesObjectsAndProperties\ClassesObjectsAndProperties\obj\Debug\ClassesObjectsAndProperties.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\ClassesObjectsAndProperties\ClassesObjectsAndProperties\obj\Debug\ClassesObjectsAndProperties.pdb
