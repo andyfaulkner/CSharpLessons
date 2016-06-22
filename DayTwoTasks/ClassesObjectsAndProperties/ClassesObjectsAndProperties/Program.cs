@@ -18,21 +18,24 @@ namespace ClassesObjectsAndProperties
             Car car1 = new Car("Audi", "TT", 12000);
             Car car2 = new Car("Honda", "S2000", 15000);
             Car car3 = new Car("Toyota", "Landcruiser", 45000);
+            Motorcycle bike1 = new Motorcycle("Honda", "CR1000", 11000);
 
             //add the cars to the list
             listOfVehicles.Add(car1);
             listOfVehicles.Add(car2);
             listOfVehicles.Add(car3);
+            listOfVehicles.Add(bike1);
 
             //output the cars to the console
-            Car.carStock();
-            car1.printCarData();
-            Car.stockValue(listOfVehicles);
-            car2.sellCar();
-            car2.printCarData();
-            car3.printCarData();
-            Car.carStock();
-            Car.stockValue(listOfVehicles);
+            Vehicle.vehicleStock();
+            car1.printVehicleData();
+            Vehicle.stockValue(listOfVehicles);
+            car2.sellVehicle();
+            car2.printVehicleData();
+            car3.printVehicleData();
+            Vehicle.vehicleStock();
+            Vehicle.stockValue(listOfVehicles);
+            bike1.printVehicleData();
 
             car1.printVehicleData();
         }

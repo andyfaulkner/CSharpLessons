@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ClassesObjectsAndProperties
 {
     //create the vehicle class
-    class Vehicle
+    public class Vehicle
     {
         //varibles for use in the Vehicle class
         public string name;
@@ -16,13 +16,13 @@ namespace ClassesObjectsAndProperties
         public bool sold;
         private static int vehicleTotal;
 
-        //Car construster that takes the properties
-        public Vehicle(string name, string model, int price)
+        //vehicle construster that takes the properties
+        public Vehicle(string nm, string mod, int pr)
         {
-            this.name = name;
-            this.model = model;
-            this.price = price;
-            sold = false;
+            this.name = nm;
+            this.model = mod;
+            this.price = pr;
+            this.sold = false;
             vehicleTotal++;
         }
 
@@ -32,7 +32,7 @@ namespace ClassesObjectsAndProperties
             Console.WriteLine("We have a {0} {1} which costs £{2}", this.name, this.model, this.price);
             if (sold)
             {
-                Console.Write("This car has been sold!\n");
+                Console.Write("This vehicle has been sold!\n");
             }
         }
 
@@ -45,7 +45,7 @@ namespace ClassesObjectsAndProperties
 
         //vehicles in stock method
         public static void vehicleStock() {
-            Console.WriteLine("We currently have {0} cars in stock", Car.carsTotal);
+            Console.WriteLine("We currently have {0} vehicles in stock", vehicleTotal);
         }
 
         //Create a value of stock method

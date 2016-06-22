@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace ClassesObjectsAndProperties
 {
-    class Motorcycle : Vehicle
+    public class Motorcycle : Vehicle
     {
+        private static int bikeTotal = 0;
+
+        //bike construster that takes the properties
+        public Motorcycle(string nm, string mod, int pr) : base (nm, mod, pr)
+        {
+            bikeTotal++;
+        }
     }
 }
