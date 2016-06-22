@@ -1,1 +1,9 @@
 C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MathQuizTutorial\MathQuizTutorial\bin\Debug\MathQuizTutorial.exe.config
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MathQuizTutorial\MathQuizTutorial\bin\Debug\MathQuizTutorial.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MathQuizTutorial\MathQuizTutorial\bin\Debug\MathQuizTutorial.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MathQuizTutorial\MathQuizTutorial\obj\Debug\MathQuizTutorial.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MathQuizTutorial\MathQuizTutorial\obj\Debug\MathQuizTutorial.Form1.resources
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MathQuizTutorial\MathQuizTutorial\obj\Debug\MathQuizTutorial.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MathQuizTutorial\MathQuizTutorial\obj\Debug\MathQuizTutorial.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MathQuizTutorial\MathQuizTutorial\obj\Debug\MathQuizTutorial.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MathQuizTutorial\MathQuizTutorial\obj\Debug\MathQuizTutorial.pdb

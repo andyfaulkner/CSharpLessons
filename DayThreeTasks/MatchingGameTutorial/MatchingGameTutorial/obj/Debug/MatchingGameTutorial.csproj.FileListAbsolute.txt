@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MatchingGameTutorial\MatchingGameTutorial\bin\Debug\MatchingGameTutorial.exe.config
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MatchingGameTutorial\MatchingGameTutorial\bin\Debug\MatchingGameTutorial.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MatchingGameTutorial\MatchingGameTutorial\bin\Debug\MatchingGameTutorial.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MatchingGameTutorial\MatchingGameTutorial\obj\Debug\MatchingGameTutorial.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MatchingGameTutorial\MatchingGameTutorial\obj\Debug\MatchingGameTutorial.Form1.resources
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MatchingGameTutorial\MatchingGameTutorial\obj\Debug\MatchingGameTutorial.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MatchingGameTutorial\MatchingGameTutorial\obj\Debug\MatchingGameTutorial.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MatchingGameTutorial\MatchingGameTutorial\obj\Debug\MatchingGameTutorial.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayThreeTasks\MatchingGameTutorial\MatchingGameTutorial\obj\Debug\MatchingGameTutorial.pdb
