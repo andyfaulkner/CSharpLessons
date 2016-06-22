@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\PictureViewerTutorial\PictureViewerTutorial\bin\Debug\PictureViewerTutorial.exe.config
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\PictureViewerTutorial\PictureViewerTutorial\bin\Debug\PictureViewerTutorial.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\PictureViewerTutorial\PictureViewerTutorial\bin\Debug\PictureViewerTutorial.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\PictureViewerTutorial\PictureViewerTutorial\obj\Debug\PictureViewerTutorial.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\PictureViewerTutorial\PictureViewerTutorial\obj\Debug\PictureViewerTutorial.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\PictureViewerTutorial\PictureViewerTutorial\obj\Debug\PictureViewerTutorial.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\PictureViewerTutorial\PictureViewerTutorial\obj\Debug\PictureViewerTutorial.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\PictureViewerTutorial\PictureViewerTutorial\obj\Debug\PictureViewerTutorial.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayTwoTasks\PictureViewerTutorial\PictureViewerTutorial\obj\Debug\PictureViewerTutorial.Form1.resources
