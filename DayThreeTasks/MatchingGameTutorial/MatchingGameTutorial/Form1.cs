@@ -182,6 +182,7 @@ namespace MatchingGameTutorial
             Close();
         }
 
+        //timer to track the total time
         private void gameTimer_Tick(object sender, EventArgs e)
         {
             gameTime++;
