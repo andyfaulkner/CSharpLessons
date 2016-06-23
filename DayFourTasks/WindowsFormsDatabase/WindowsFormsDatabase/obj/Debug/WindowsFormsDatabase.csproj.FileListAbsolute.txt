@@ -1,0 +1,13 @@
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\WindowsFormsDatabase.exe.config
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\WindowsFormsDatabase.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\WindowsFormsDatabase.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.Form1.resources
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\GitHub\CSharpLessons\DayFourTasks\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\EntityFramework.SqlServer.xml
