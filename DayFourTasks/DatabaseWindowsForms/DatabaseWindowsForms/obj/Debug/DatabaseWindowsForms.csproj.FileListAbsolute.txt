@@ -1,0 +1,9 @@
+C:\Users\Bungle\Documents\GitHub\CSharpLessons\DayFourTasks\DatabaseWindowsForms\DatabaseWindowsForms\bin\Debug\DatabaseWindowsForms.exe.config
+C:\Users\Bungle\Documents\GitHub\CSharpLessons\DayFourTasks\DatabaseWindowsForms\DatabaseWindowsForms\bin\Debug\DatabaseWindowsForms.exe
+C:\Users\Bungle\Documents\GitHub\CSharpLessons\DayFourTasks\DatabaseWindowsForms\DatabaseWindowsForms\bin\Debug\DatabaseWindowsForms.pdb
+C:\Users\Bungle\Documents\GitHub\CSharpLessons\DayFourTasks\DatabaseWindowsForms\DatabaseWindowsForms\obj\Debug\DatabaseWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Bungle\Documents\GitHub\CSharpLessons\DayFourTasks\DatabaseWindowsForms\DatabaseWindowsForms\obj\Debug\DatabaseWindowsForms.Form1.resources
+C:\Users\Bungle\Documents\GitHub\CSharpLessons\DayFourTasks\DatabaseWindowsForms\DatabaseWindowsForms\obj\Debug\DatabaseWindowsForms.Properties.Resources.resources
+C:\Users\Bungle\Documents\GitHub\CSharpLessons\DayFourTasks\DatabaseWindowsForms\DatabaseWindowsForms\obj\Debug\DatabaseWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Bungle\Documents\GitHub\CSharpLessons\DayFourTasks\DatabaseWindowsForms\DatabaseWindowsForms\obj\Debug\DatabaseWindowsForms.exe
+C:\Users\Bungle\Documents\GitHub\CSharpLessons\DayFourTasks\DatabaseWindowsForms\DatabaseWindowsForms\obj\Debug\DatabaseWindowsForms.pdb
