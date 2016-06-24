@@ -29,25 +29,25 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.textBoxName = new System.Windows.Forms.TextBox();
             this.textBoxAddress = new System.Windows.Forms.TextBox();
-            this.textBoxPhoneNumber = new System.Windows.Forms.TextBox();
             this.textBoxCity = new System.Windows.Forms.TextBox();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.buttonDisplayAll = new System.Windows.Forms.Button();
-            this.buttonDisplayNext = new System.Windows.Forms.Button();
-            this.buttonDisplayPrevious = new System.Windows.Forms.Button();
-            this.buttonAddRecord = new System.Windows.Forms.Button();
-            this.buttonChangeRecord = new System.Windows.Forms.Button();
-            this.buttonDeleteRecord = new System.Windows.Forms.Button();
             this.textBoxPostcode = new System.Windows.Forms.TextBox();
+            this.textBoxPhoneNumber = new System.Windows.Forms.TextBox();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.buttonDisplayPrevious = new System.Windows.Forms.Button();
+            this.buttonDisplayNext = new System.Windows.Forms.Button();
+            this.buttonDisplayAll = new System.Windows.Forms.Button();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.buttonDeleteRecord = new System.Windows.Forms.Button();
+            this.buttonChangeRecord = new System.Windows.Forms.Button();
+            this.buttonAddRecord = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -58,7 +58,7 @@
             this.tableLayoutPanel1.ColumnCount = 3;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 81.39535F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 18.60465F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 309F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 312F));
             this.tableLayoutPanel1.Controls.Add(this.label3, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.label1, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.label2, 0, 2);
@@ -87,6 +87,18 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(516, 417);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(3, 70);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(160, 45);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "Name";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -107,22 +119,10 @@
             this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(3, 115);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(162, 45);
+            this.label2.Size = new System.Drawing.Size(160, 45);
             this.label2.TabIndex = 1;
             this.label2.Text = "Address";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(3, 70);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(162, 45);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "Name";
-            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label4
             // 
@@ -131,7 +131,7 @@
             this.label4.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(3, 160);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(162, 45);
+            this.label4.Size = new System.Drawing.Size(160, 45);
             this.label4.TabIndex = 3;
             this.label4.Text = "City";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -143,7 +143,7 @@
             this.label5.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(3, 205);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(162, 45);
+            this.label5.Size = new System.Drawing.Size(160, 45);
             this.label5.TabIndex = 4;
             this.label5.Text = "Postcode";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -155,7 +155,7 @@
             this.label6.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(3, 250);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(162, 45);
+            this.label6.Size = new System.Drawing.Size(160, 45);
             this.label6.TabIndex = 5;
             this.label6.Text = "Phone";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -164,7 +164,7 @@
             // 
             this.textBoxName.Dock = System.Windows.Forms.DockStyle.Left;
             this.textBoxName.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxName.Location = new System.Drawing.Point(209, 73);
+            this.textBoxName.Location = new System.Drawing.Point(206, 73);
             this.textBoxName.Name = "textBoxName";
             this.textBoxName.Size = new System.Drawing.Size(225, 29);
             this.textBoxName.TabIndex = 1;
@@ -173,28 +173,37 @@
             // 
             this.textBoxAddress.Dock = System.Windows.Forms.DockStyle.Left;
             this.textBoxAddress.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxAddress.Location = new System.Drawing.Point(209, 118);
+            this.textBoxAddress.Location = new System.Drawing.Point(206, 118);
             this.textBoxAddress.Name = "textBoxAddress";
             this.textBoxAddress.Size = new System.Drawing.Size(225, 29);
             this.textBoxAddress.TabIndex = 2;
-            // 
-            // textBoxPhoneNumber
-            // 
-            this.textBoxPhoneNumber.Dock = System.Windows.Forms.DockStyle.Left;
-            this.textBoxPhoneNumber.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxPhoneNumber.Location = new System.Drawing.Point(209, 253);
-            this.textBoxPhoneNumber.Name = "textBoxPhoneNumber";
-            this.textBoxPhoneNumber.Size = new System.Drawing.Size(225, 29);
-            this.textBoxPhoneNumber.TabIndex = 5;
             // 
             // textBoxCity
             // 
             this.textBoxCity.Dock = System.Windows.Forms.DockStyle.Left;
             this.textBoxCity.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxCity.Location = new System.Drawing.Point(209, 163);
+            this.textBoxCity.Location = new System.Drawing.Point(206, 163);
             this.textBoxCity.Name = "textBoxCity";
             this.textBoxCity.Size = new System.Drawing.Size(225, 29);
             this.textBoxCity.TabIndex = 3;
+            // 
+            // textBoxPostcode
+            // 
+            this.textBoxPostcode.Dock = System.Windows.Forms.DockStyle.Left;
+            this.textBoxPostcode.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxPostcode.Location = new System.Drawing.Point(206, 208);
+            this.textBoxPostcode.Name = "textBoxPostcode";
+            this.textBoxPostcode.Size = new System.Drawing.Size(225, 29);
+            this.textBoxPostcode.TabIndex = 4;
+            // 
+            // textBoxPhoneNumber
+            // 
+            this.textBoxPhoneNumber.Dock = System.Windows.Forms.DockStyle.Left;
+            this.textBoxPhoneNumber.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxPhoneNumber.Location = new System.Drawing.Point(206, 253);
+            this.textBoxPhoneNumber.Name = "textBoxPhoneNumber";
+            this.textBoxPhoneNumber.Size = new System.Drawing.Size(225, 29);
+            this.textBoxPhoneNumber.TabIndex = 5;
             // 
             // groupBox1
             // 
@@ -208,6 +217,42 @@
             this.groupBox1.Size = new System.Drawing.Size(510, 54);
             this.groupBox1.TabIndex = 11;
             this.groupBox1.TabStop = false;
+            // 
+            // buttonDisplayPrevious
+            // 
+            this.buttonDisplayPrevious.AutoSize = true;
+            this.buttonDisplayPrevious.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonDisplayPrevious.Location = new System.Drawing.Point(329, 17);
+            this.buttonDisplayPrevious.Name = "buttonDisplayPrevious";
+            this.buttonDisplayPrevious.Size = new System.Drawing.Size(159, 27);
+            this.buttonDisplayPrevious.TabIndex = 2;
+            this.buttonDisplayPrevious.Text = "Display Previous Record";
+            this.buttonDisplayPrevious.UseVisualStyleBackColor = true;
+            this.buttonDisplayPrevious.Click += new System.EventHandler(this.buttonDisplayPrevious_Click);
+            // 
+            // buttonDisplayNext
+            // 
+            this.buttonDisplayNext.AutoSize = true;
+            this.buttonDisplayNext.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonDisplayNext.Location = new System.Drawing.Point(168, 17);
+            this.buttonDisplayNext.Name = "buttonDisplayNext";
+            this.buttonDisplayNext.Size = new System.Drawing.Size(137, 27);
+            this.buttonDisplayNext.TabIndex = 1;
+            this.buttonDisplayNext.Text = "Display Next Record";
+            this.buttonDisplayNext.UseVisualStyleBackColor = true;
+            this.buttonDisplayNext.Click += new System.EventHandler(this.buttonDisplayNext_Click);
+            // 
+            // buttonDisplayAll
+            // 
+            this.buttonDisplayAll.AutoSize = true;
+            this.buttonDisplayAll.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonDisplayAll.Location = new System.Drawing.Point(14, 17);
+            this.buttonDisplayAll.Name = "buttonDisplayAll";
+            this.buttonDisplayAll.Size = new System.Drawing.Size(130, 27);
+            this.buttonDisplayAll.TabIndex = 0;
+            this.buttonDisplayAll.Text = "Display All Records";
+            this.buttonDisplayAll.UseVisualStyleBackColor = true;
+            this.buttonDisplayAll.Click += new System.EventHandler(this.buttonDisplayAll_Click);
             // 
             // groupBox2
             // 
@@ -223,49 +268,17 @@
             this.groupBox2.TabIndex = 12;
             this.groupBox2.TabStop = false;
             // 
-            // buttonDisplayAll
+            // buttonDeleteRecord
             // 
-            this.buttonDisplayAll.AutoSize = true;
-            this.buttonDisplayAll.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonDisplayAll.Location = new System.Drawing.Point(14, 17);
-            this.buttonDisplayAll.Name = "buttonDisplayAll";
-            this.buttonDisplayAll.Size = new System.Drawing.Size(130, 27);
-            this.buttonDisplayAll.TabIndex = 0;
-            this.buttonDisplayAll.Text = "Display All Records";
-            this.buttonDisplayAll.UseVisualStyleBackColor = true;
-            // 
-            // buttonDisplayNext
-            // 
-            this.buttonDisplayNext.AutoSize = true;
-            this.buttonDisplayNext.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonDisplayNext.Location = new System.Drawing.Point(168, 17);
-            this.buttonDisplayNext.Name = "buttonDisplayNext";
-            this.buttonDisplayNext.Size = new System.Drawing.Size(137, 27);
-            this.buttonDisplayNext.TabIndex = 1;
-            this.buttonDisplayNext.Text = "Display Next Record";
-            this.buttonDisplayNext.UseVisualStyleBackColor = true;
-            // 
-            // buttonDisplayPrevious
-            // 
-            this.buttonDisplayPrevious.AutoSize = true;
-            this.buttonDisplayPrevious.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonDisplayPrevious.Location = new System.Drawing.Point(329, 17);
-            this.buttonDisplayPrevious.Name = "buttonDisplayPrevious";
-            this.buttonDisplayPrevious.Size = new System.Drawing.Size(159, 27);
-            this.buttonDisplayPrevious.TabIndex = 2;
-            this.buttonDisplayPrevious.Text = "Display Previous Record";
-            this.buttonDisplayPrevious.UseVisualStyleBackColor = true;
-            // 
-            // buttonAddRecord
-            // 
-            this.buttonAddRecord.AutoSize = true;
-            this.buttonAddRecord.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonAddRecord.Location = new System.Drawing.Point(72, 16);
-            this.buttonAddRecord.Name = "buttonAddRecord";
-            this.buttonAddRecord.Size = new System.Drawing.Size(88, 31);
-            this.buttonAddRecord.TabIndex = 1;
-            this.buttonAddRecord.Text = "Add Record";
-            this.buttonAddRecord.UseVisualStyleBackColor = true;
+            this.buttonDeleteRecord.AutoSize = true;
+            this.buttonDeleteRecord.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonDeleteRecord.Location = new System.Drawing.Point(314, 16);
+            this.buttonDeleteRecord.Name = "buttonDeleteRecord";
+            this.buttonDeleteRecord.Size = new System.Drawing.Size(101, 31);
+            this.buttonDeleteRecord.TabIndex = 3;
+            this.buttonDeleteRecord.Text = "Delete Record";
+            this.buttonDeleteRecord.UseVisualStyleBackColor = true;
+            this.buttonDeleteRecord.Click += new System.EventHandler(this.buttonDeleteRecord_Click);
             // 
             // buttonChangeRecord
             // 
@@ -277,26 +290,19 @@
             this.buttonChangeRecord.TabIndex = 2;
             this.buttonChangeRecord.Text = "Change Record";
             this.buttonChangeRecord.UseVisualStyleBackColor = true;
+            this.buttonChangeRecord.Click += new System.EventHandler(this.buttonChangeRecord_Click);
             // 
-            // buttonDeleteRecord
+            // buttonAddRecord
             // 
-            this.buttonDeleteRecord.AutoSize = true;
-            this.buttonDeleteRecord.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonDeleteRecord.Location = new System.Drawing.Point(314, 16);
-            this.buttonDeleteRecord.Name = "buttonDeleteRecord";
-            this.buttonDeleteRecord.Size = new System.Drawing.Size(101, 31);
-            this.buttonDeleteRecord.TabIndex = 3;
-            this.buttonDeleteRecord.Text = "Delete Record";
-            this.buttonDeleteRecord.UseVisualStyleBackColor = true;
-            // 
-            // textBoxPostcode
-            // 
-            this.textBoxPostcode.Dock = System.Windows.Forms.DockStyle.Left;
-            this.textBoxPostcode.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxPostcode.Location = new System.Drawing.Point(209, 208);
-            this.textBoxPostcode.Name = "textBoxPostcode";
-            this.textBoxPostcode.Size = new System.Drawing.Size(225, 29);
-            this.textBoxPostcode.TabIndex = 4;
+            this.buttonAddRecord.AutoSize = true;
+            this.buttonAddRecord.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonAddRecord.Location = new System.Drawing.Point(72, 16);
+            this.buttonAddRecord.Name = "buttonAddRecord";
+            this.buttonAddRecord.Size = new System.Drawing.Size(88, 31);
+            this.buttonAddRecord.TabIndex = 1;
+            this.buttonAddRecord.Text = "Add Record";
+            this.buttonAddRecord.UseVisualStyleBackColor = true;
+            this.buttonAddRecord.Click += new System.EventHandler(this.buttonAddRecord_Click);
             // 
             // Form1
             // 
