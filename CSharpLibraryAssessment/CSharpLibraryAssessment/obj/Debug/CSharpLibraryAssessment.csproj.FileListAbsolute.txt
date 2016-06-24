@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\CSharpLessons\CSharpLibraryAssessment\CSharpLibraryAssessment\bin\Debug\CSharpLibraryAssessment.exe.config
+C:\Users\student\Documents\GitHub\CSharpLessons\CSharpLibraryAssessment\CSharpLibraryAssessment\obj\Debug\CSharpLibraryAssessment.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharpLessons\CSharpLibraryAssessment\CSharpLibraryAssessment\obj\Debug\CSharpLibraryAssessment.Form1.resources
+C:\Users\student\Documents\GitHub\CSharpLessons\CSharpLibraryAssessment\CSharpLibraryAssessment\obj\Debug\CSharpLibraryAssessment.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\CSharpLessons\CSharpLibraryAssessment\CSharpLibraryAssessment\obj\Debug\CSharpLibraryAssessment.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\CSharpLessons\CSharpLibraryAssessment\CSharpLibraryAssessment\bin\Debug\CSharpLibraryAssessment.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\CSharpLibraryAssessment\CSharpLibraryAssessment\bin\Debug\CSharpLibraryAssessment.pdb
+C:\Users\student\Documents\GitHub\CSharpLessons\CSharpLibraryAssessment\CSharpLibraryAssessment\obj\Debug\CSharpLibraryAssessment.exe
+C:\Users\student\Documents\GitHub\CSharpLessons\CSharpLibraryAssessment\CSharpLibraryAssessment\obj\Debug\CSharpLibraryAssessment.pdb
